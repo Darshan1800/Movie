@@ -1,0 +1,5 @@
+Appu,Kannada,UA,2.5
+Avatar2,English,UA,3
+BlackAdams,English,U,3
+Morbis,English,UA,2.5
+Dilwale,Hindi,UA,2.5
