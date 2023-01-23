@@ -10,7 +10,7 @@ The whole program perform the movie booking management system.The inbuilt packag
 
 The user defined functions that are used and its description are:
 
-1) add_user() - to input user name and email id to store in user list
+**1) add_user() **- to input user name and email id to store in user list
 
 (Note the string input doesn't takes when space is encounter i tried fgets and other regular expression but didn't work)
 
