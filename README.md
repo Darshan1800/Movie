@@ -13,7 +13,8 @@ The user defined functions that are used and its description are:
 1) add_user() - to input user name and email id to store in user list
 
 (Note the string input doesn't takes when space is encounter i tried fgets and other regular expression but didn't work)
-2) show_user() - to display all the users present in the user list
+
+*2) show_user() - to display all the users present in the user list
 3) display_all_show_id() - to display all the shows id in sorted maner of show status
 4) update_transction_list(transaction list[],int show_id,int no_seats,int id,int trans_id,int price) :
     This function take the Transaction list(either online or counter) with the id where it need to update the price as updates dynamically
